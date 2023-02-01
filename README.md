@@ -9,8 +9,8 @@
 - 🐱‍👤 Tenho conhecimento em **Python**(Eu diria que intermediário/avançado🤷‍♂️), **Linguagem C básico**(Aprendi um pouco em um curso técnico de eletrônica✌), **MySQL**(Aprendi pelo meu projeto CRUD👌), **Office Básico**, **Inglês Intermediário**(Nunca fiz curso porém entendo bem, talk not so much👀), **Técnico em Eletrônica Ω**(Não sei se é relevante para área de programação, mas tô me formando esse ano de qualquer forma); 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloVGDS&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVGDS&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PauloVGDS&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVGDS&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 <div>
   <img align="center" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
