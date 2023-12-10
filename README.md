@@ -3,10 +3,10 @@
 
 - 🔭 Estou trabalhando em um projeto pessoal de uma interface gráfica de login🐍
 - 🌱 CS50's Harvard - C, Python, SQL, JavaScript, CSS and HTML.
-- 🤔 Queria ajuda sobre como usar o próprio git 🤣, e dicas de como melhorar os meus códigos e quem sabe alguma indicação para aplicar meus conhecimentos.
+- 🤔 Dicas de como melhorar
 - 😄 Pronomes: SIM
 - ⚡ Fun fact: Como usa isso?
-- 🐱‍👤 Tenho conhecimento em **Python**(Eu diria que intermediário/avançado🤷‍♂️), **Linguagem C básico**(Aprendi um pouco em um curso técnico de eletrônica✌), **MySQL**(Aprendi pelo meu projeto CRUD👌), **Office Básico**, **Inglês Intermediário**(Nunca fiz curso porém entendo bem, talk not so much👀), **Técnico em Eletrônica Ω**(Não sei se é relevante para área de programação, mas tô me formando esse ano de qualquer forma); 
+- 🐱‍👤 Tenho conhecimento em **Python**(Eu diria que intermediário/avançado🤷‍♂️), **Linguagem C**(Programação de Microcontroladores PIC e Arduino✌), **MySQL**(CRUD👌), **Inglês Intermediário**(Nunca fiz curso porém entendo bem), **Técnico em Eletrônica Ω**(Não sei se é relevante para área de programação, mas sou formado); 
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PauloVGDS&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
