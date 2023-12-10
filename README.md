@@ -1,8 +1,8 @@
 ### Olá eu sou o Paulo 👋
 
 
-- 🔭 Estou trabalhando em um projeto pessoal de uma interface gráfica de login🐍
-- 🌱 CS50's Harvard - C, Python, SQL, JavaScript, CSS and HTML.
+- 🔭 Estudando Front🐍
+- 🌱 CS50's Harvard entre outros.
 - 🤔 Dicas de como melhorar
 - 😄 Pronomes: SIM
 - ⚡ Fun fact: Como usa isso?
