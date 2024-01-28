@@ -27,8 +27,6 @@
   <a href = "https://discord.gg/hZeuT59k">
     <img align="center" height="30" width="120" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  
-  <img align="center" height="30" width="120" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
 <hr>
