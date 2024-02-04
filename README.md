@@ -15,19 +15,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVGDS&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
-<div align="center">
-  <img align="center" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  
-  <a href = "https://steamcommunity.com/profiles/76561198276672754/">
-    <img height="30" width="100" align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"_blank">
-  </a>
-  
-  <a href = "https://discord.gg/hZeuT59k">
-    <img align="center" height="30" width="120" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</div>
+
 
 <hr>
 
