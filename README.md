@@ -1,12 +1,10 @@
-### Olá eu sou o Paulo 👋
+### Olá eu sou Paulo 👋
 
 
-- 🔭 Estudando Front🐍
-- 🌱 CS50's Harvard entre outros.
-- 🤔 Dicas de como melhorar
+- 🔭 Estudando Desenvolvimento Web
+- 🤔 Buscando melhorar sempre!
 - 😄 Pronomes: SIM
-- ⚡ Fun fact: Como usa isso?
-- 🐱‍👤 Programador e Técnico de Eletrônica
+- 🐱‍👤 Developer e Técnico de Eletrônica
 
 <hr>
 
