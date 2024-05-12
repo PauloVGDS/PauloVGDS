@@ -1,7 +1,7 @@
 ### Olá eu sou Paulo 👋
 
 
-- 🔭 Estudando Desenvolvimento Web
+- 🔭 Estudando Desenvolvimento de Sistemas Embarcados
 - 🤔 Buscando melhorar sempre!
 - 😄 Pronomes: SIM
 - 🐱‍👤 Developer e Técnico de Eletrônica
