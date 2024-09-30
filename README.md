@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Embedded Systems using LoraWan protocol](https://github.com/PauloVGDS/Lorawan-Network)
 
-- 🌱 I’m currently learning [Graphical Interface Development using Tkinter](https://github.com/PauloVGDS/CRUD-3.0)
+- 🌱 I’m currently learning [Selenium, AWS, Google Cloud](https://github.com/PauloVGDS/NeuronAutomate)
 
-- 👯 I’m looking to collaborate on **Embedded Systems and Data Science Projects**
+- 👯 I’m looking to collaborate on **Embedded Systems and Automation Projects**
 
 - 💬 Ask me about **Python**
 
