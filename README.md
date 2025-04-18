@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Embedded Systems using LoraWan protocol](https://github.com/PauloVGDS/Lorawan-Network)
 
-- 🌱 I’m currently learning [Selenium, AWS, Google Cloud](https://github.com/PauloVGDS/NeuronAutomate)
+- 🌱 I’m currently learning AWS IoT Core, ESP-IDF and MQTT with ESP32
 
 - 👯 I’m looking to collaborate on **Embedded Systems and Automation Projects**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python** and *Electronics*
 
 - 📫 How to reach me **paulovinicius1732@gmail.com**
 
