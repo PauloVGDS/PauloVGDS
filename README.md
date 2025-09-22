@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Embedded Systems using LoraWan protocol](https://github.com/PauloVGDS/Lorawan-Network)
 
-- 🌱 I’m currently learning **ESP-IDF**
+- 🌱 I’m currently learning **Unit Testing with PlatformIO**
 
 - 👯 I’m looking to collaborate on **Embedded Systems and Data Science Projects**
 
