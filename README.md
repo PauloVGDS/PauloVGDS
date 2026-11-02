@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unit Testing with PlatformIO**
 
-- 👯 I’m looking to collaborate on **Embedded Systems and Data Science Projects**
+- 👯 I’m looking to collaborate on **Embedded Systems and Reverse Engineering**
 
 - 💬 Ask me about **Python and Data Structures**
 
@@ -58,6 +58,3 @@
 <hr>
 
 
-<div align="center">
-  <img height="480" width="640" src="https://certificates.cs50.io/f0618911-da7c-4095-aae9-15684868f010.png?size=letter">
-</div>
